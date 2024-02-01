@@ -1,3 +1,5 @@
+# Mass cPanel Checker
+
 Mass cPanel Checker Only Accurate Valid Login Checker (Skip 2fa Security ask Panels) With Total Domains Counter in Hosted Server
 
 Your Cpanel List Should Contain Like This > https://domain.com:2083|Username|Password
